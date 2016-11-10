@@ -1687,7 +1687,7 @@
     if (ratio === 0) {
       return 1;
     } else {
-      return ratio;
+      return 1;
     }
   };
 
